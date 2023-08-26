@@ -82,7 +82,3 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README according to your project's specifics. Make sure to update the installation and usage instructions, project structure, and any additional features you might add. Good luck with your Video Chat Web App!
